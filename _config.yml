@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         "http://pixyll.com"
+title:       thumt.github.io
+email:       thumt17@gmail.com
+author:      THUMT
+description: "Blog of Tsinghua Machine Translation Group"
+baseurl:     "/thumt.github.io"
+url:         "http://thumt.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
