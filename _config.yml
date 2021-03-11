@@ -1,9 +1,9 @@
 # Site settings
-title:       thumt.github.io
+title:       THUMT
 email:       thumt17@gmail.com
 author:      THUMT
 description: "Blog of Tsinghua Machine Translation Group"
-baseurl:     "/thumt.github.io"
+baseurl:     ""
 url:         "http://thumt.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
