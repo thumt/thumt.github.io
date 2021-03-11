@@ -40,12 +40,12 @@ for the Jekyll site. The defaults are:
 
 ```yml
 # Site settings
-title: Pixyll
-email: your_email@example.com
-author: John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title: THUMT
+email: thumt17@gmail.com
+author: THUMT group
+description: "A blog of THUMT group."
 baseurl: ""
-url: "http://pixyll.com"
+url: "https://thumt.github.io/"
 
 # Build settings
 markdown: kramdown
