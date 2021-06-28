@@ -6,8 +6,6 @@ description: >
   providing documentation and blog post pages.
 lang: en-US
 
-remote_theme: aksakalli/jekyll-doc-theme@gh-pages
-
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: https://thumt.github.io/ # the base hostname & protocol for your site
 git_address: https://github.com/thumt/thumt.github.io
@@ -22,10 +20,13 @@ markdown: kramdown
 highlighter: rouge
 # Plugins (previously gems:)
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
+
+remote_theme: aksakalli/jekyll-doc-theme@gh-pages
 
 exclude:
   - Gemfile
