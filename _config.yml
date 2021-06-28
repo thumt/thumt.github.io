@@ -8,10 +8,10 @@ lang: en-US
 
 remote_theme: aksakalli/jekyll-doc-theme@gh-pages
 
-baseurl: "/" # the subpath of your site, e.g. /blog/
-url: https://thumt.github.io/ # the base hostname & protocol for your site
+baseurl: "/blog/" # the subpath of your site, e.g. /blog/
+url: https://thumt.github.io/blog/ # the base hostname & protocol for your site
 git_address: https://github.com/thumt/thumt.github.io
-git_edit_address: https://github.com/thumt/thumt.github.io/blob/gh-pages
+# git_edit_address: https://github.com/thumt/thumt.github.io/blob/gh-pages
 
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap
